@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set ex
-echo -e Please enter the Hostname or FQDN of the server. Note : This must be the exact address you type to access Kibana
+echo -e "Please enter the Hostname or FQDN of the server. Note : This must be the exact address you type to access Kibana"
 read IPADDRESS
 
 #Install Java
