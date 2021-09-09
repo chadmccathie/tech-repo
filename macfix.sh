@@ -17,3 +17,4 @@ echo 'HWADDR="'$mac'"' >>  /etc/sysconfig/network-scripts/ifcfg-eth0
 #Reboot for changes to take effect
 reboot
 
+# 1
